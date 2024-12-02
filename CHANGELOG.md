@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+### [3.1.2](https://github.com/spark-hou/version-test/compare/v3.1.2-test.0...v3.1.2) (2024-12-02)
+
+
+### 📦 Chores | 其他更新
+
+* **release:** 3.1.2-dev.0 ([7579b17](https://github.com/spark-hou/version-test/commit/7579b17d07d68eddb164f432d18bc99f8b2d8223))
+
 ### [3.1.2-dev.0](https://github.com/spark-hou/version-test/compare/v3.1.2-test.0...v3.1.2-dev.0) (2024-12-02)
 
 ### [3.1.2-test.0](https://github.com/spark-hou/version-test/compare/v3.1.2-dev.0...v3.1.2-test.0) (2024-12-02)
