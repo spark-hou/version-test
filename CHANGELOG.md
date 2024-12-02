@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+## [1.4.0-alpha.4](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.3...v1.4.0-alpha.4) (2024-12-02)
+
+
+### ✨ Features | 新功能
+
+* **a.js:** 修改变量 f 的值 ([410dec4](https://github.com/spark-hou/version-test/commit/410dec4eb24f8fa4666b9ffa0dc6e89d850e08d8))
+
 ## [1.4.0-alpha.3](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.2...v1.4.0-alpha.3) (2024-12-02)
 
 
