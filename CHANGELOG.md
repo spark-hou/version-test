@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+## [1.4.0-alpha.3](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.2...v1.4.0-alpha.3) (2024-12-02)
+
+
+### ♻ Code Refactoring | 代码重构
+
+* **a.js:** 更新变量 f 的值 ([64ba7bb](https://github.com/spark-hou/version-test/commit/64ba7bb4a9200f180bc5feba659a2346b469683c))
+
 ## [1.4.0-alpha.2](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.1...v1.4.0-alpha.2) (2024-12-02)
 
 

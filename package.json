@@ -1,6 +1,6 @@
 {
   "name": "version-test",
-  "version": "1.4.0-alpha.2",
+  "version": "1.4.0-alpha.3",
   "main": "a.js",
   "scripts": {
     "release": "standard-version",
