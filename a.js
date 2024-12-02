@@ -5,3 +5,4 @@
  */
 let a = 'a'
 let b = '2'
+let c = '3'
