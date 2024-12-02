@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+## [1.6.0-alpha.0](https://github.com/spark-hou/version-test/compare/v1.5.0...v1.6.0-alpha.0) (2024-12-02)
+
+
+### ✨ Features | 新功能
+
+* 添加新变量 ([fc8d9eb](https://github.com/spark-hou/version-test/commit/fc8d9eb0968739d6cac1c31017e929ab644f8e92))
+
 ## [1.5.0](https://github.com/spark-hou/version-test/compare/v1.4.4...v1.5.0) (2024-12-02)
 
 
