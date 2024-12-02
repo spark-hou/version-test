@@ -4,3 +4,4 @@
  * @Description:
  */
 let a = 'a'
+let b = '2'
