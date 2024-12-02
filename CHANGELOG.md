@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+## [1.4.0-alpha.0](https://github.com/spark-hou/version-test/compare/v1.3.3-alpha.0...v1.4.0-alpha.0) (2024-12-02)
+
+
+### ✨ Features | 新功能
+
+* **a.js:** 新增变量 r ([cc79f8e](https://github.com/spark-hou/version-test/commit/cc79f8e05e58f87b5ffc6eeaa63fb68c2ad6821f))
+
 ### [1.3.3-alpha.0](https://github.com/spark-hou/version-test/compare/v1.3.2...v1.3.3-alpha.0) (2024-12-02)
 
 ### [1.3.2](https://github.com/spark-hou/version-test/compare/v1.3.1...v1.3.2) (2024-12-02)
