@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+## [1.4.0-alpha.2](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.1...v1.4.0-alpha.2) (2024-12-02)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **a.js:** 新增变量 r ([f051605](https://github.com/spark-hou/version-test/commit/f0516052b6632adb9fa3ce3e82bb3159032cfdf2))
+
 ## [1.4.0-alpha.1](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.0...v1.4.0-alpha.1) (2024-12-02)
 
 ## [1.4.0-alpha.0](https://github.com/spark-hou/version-test/compare/v1.3.3-alpha.0...v1.4.0-alpha.0) (2024-12-02)
