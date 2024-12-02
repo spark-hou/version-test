@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+### [3.1.1](https://github.com/spark-hou/version-test/compare/v1.7.0...v3.1.1) (2024-12-02)
+
+
+### 👷‍ Build System | 构建
+
+* 更新项目版本号 ([5b46dd8](https://github.com/spark-hou/version-test/commit/5b46dd8de29194b10b3a0b06d960fc252f35c8b3))
+
 ## [1.7.0](https://github.com/spark-hou/version-test/compare/v1.7.0-alpha.0...v1.7.0) (2024-12-02)
 
 ## 3.1.0 (2024-12-02)
