@@ -1,10 +1,11 @@
 {
   "name": "version-test",
-  "version": "3.1.1",
+  "version": "3.1.2-dev.0",
   "main": "a.js",
   "scripts": {
     "release": "standard-version",
-    "release-alpha": "standard-version release --prerelease alpha"
+    "release-dev": "standard-version release --prerelease dev",
+    "release-test": "standard-version release --prerelease test"
   },
   "author": "",
   "license": "ISC",
