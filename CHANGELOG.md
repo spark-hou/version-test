@@ -1,6 +1,8 @@
 # 更新历史 
 
 
+### [1.4.1-alpha.0](https://github.com/spark-hou/version-test/compare/v1.4.0...v1.4.1-alpha.0) (2024-12-02)
+
 ## [1.4.0](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.5...v1.4.0) (2024-12-02)
 
 ## [1.4.0-alpha.5](https://github.com/spark-hou/version-test/compare/v1.4.0-alpha.4...v1.4.0-alpha.5) (2024-12-02)
